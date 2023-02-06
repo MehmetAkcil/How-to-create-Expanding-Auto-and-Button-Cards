@@ -1,7 +1,7 @@
 #How to create Expanding Auto and Button Cards
 Ornekleri bol olan bir github projesinin biraz daha gelistirilmis halidir.
 
-##Detaylar
+## Detaylar
 
 - Box Width:  50px, 60vh
 - Color: #ddd, #01163d, #fff
